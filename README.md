@@ -1,19 +1,21 @@
 ## Hi, I'm Beril 👋
 
-I'm an Applied AI & Data Science professional who likes building useful AI systems from messy, real-world data.
+I'm an Applied AI & Data Science professional building practical AI systems for document intelligence, automation, analytics, and decision support.
 
-I’m especially interested in **Generative AI, document intelligence, OCR, RAG, LLM workflows, automation, and enterprise AI systems** — basically the kind of AI that does not just look cool in a demo, but actually helps people work better.
+I’m currently developing **BoralAI Labs** — my personal AI portfolio and open-source lab for experimenting with Generative AI, RAG, OCR, LLM workflows, agentic systems, and production-oriented AI prototypes.
+
+I’m especially interested in building AI that does not just look cool in a demo, but actually helps people work better.
 
 ---
 
 ### 🧠 What I work on
 
-- 🔭 Currently building **GenAI prototypes** for document intelligence, automation, and decision support
-- 🤖 Exploring **agentic AI systems** with RAG, vector search, structured reasoning, and multi-agent workflows
-- 📄 Interested in **OCR, document extraction, grounded Q&A, summarization, and AI-powered workflows**
-- 🛠️ I like turning unclear business problems into practical AI/data solutions
-- ☁️ Experienced with enterprise data platforms, cloud-based analytics, BI automation, and production-oriented pipelines
-
+- 🔭 Building **BoralAI Labs**, a personal AI portfolio/open-source lab for GenAI, RAG, OCR, and automation prototypes
+- 🤖 Exploring **agentic AI systems** with vector search, structured reasoning, and multi-agent workflows
+- 📄 Interested in **document intelligence, OCR, grounded Q&A, summarization, and AI-powered workflows**
+- 🛠️ Turning unclear business problems into practical AI/data solutions
+- ☁️ Building production-oriented workflows with Python, FastAPI, Docker, vector search, and cloud-ready architecture
+- 📊 Experienced with enterprise data platforms, cloud-based analytics, BI automation, and production-oriented pipelines
 ---
 
 ### 🧰 My AI toolbox
@@ -64,6 +66,11 @@ I’m especially interested in **Generative AI, document intelligence, OCR, RAG,
 ---
 
 ### 🚀 Featured projects
+
+
+#### 🧪 BoralAI Labs  
+My personal AI portfolio and open-source lab for building practical GenAI prototypes around document intelligence, RAG, OCR, automation, and decision support.  
+Focus: learning in public, applied AI experimentation, reusable project templates, and production-oriented AI workflows.
 
 #### 🕸️ Agentic Network RCA  
 A multi-agent LLM system for root cause analysis using **LangGraph, FAISS, RAG pipelines, and structured reasoning**.  
