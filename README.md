@@ -87,6 +87,16 @@ A document intelligence workflow for semantic search, sentence similarity, and Q
 #### 💓 Personalized Emotion Recognition  
 My Master’s research project on emotion recognition from physiological signals using **deep-seeded clustering** and machine learning.
 
+
+---
+
+### 📝 Research & Publications
+
+#### Generating Minimalist Adversarial Perturbations to Test Object-Detection Models  
+Co-authored IEEE ICSTW 2024 paper on adversarial perturbation testing for object-detection models using an adaptive multi-metric evolutionary search approach.
+
+[![Paper](https://img.shields.io/badge/Read%20the%20Paper-333?style=for-the-badge&logo=ieee)](https://ieeexplore.ieee.org/abstract/document/10675952)
+
 ---
 
 ### 💬 Ask me about
