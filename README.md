@@ -1,91 +1,117 @@
 ## Hi, I'm Beril 👋
 
-I'm an Applied AI and Data Science professional focused on building practical AI systems for document intelligence, automation, analytics, and enterprise decision support.
+I'm an Applied AI & Data Science professional who likes building useful AI systems from messy, real-world data.
 
-My work sits at the intersection of **Generative AI, LLM workflows, RAG, NLP, OCR, machine learning, data engineering, and cloud-based analytics**. I’m especially interested in turning complex, unstructured, and operational data into reliable AI-powered tools that improve productivity, decision-making, and business workflows.
+I’m especially interested in **Generative AI, document intelligence, OCR, RAG, LLM workflows, automation, and enterprise AI systems** — basically the kind of AI that does not just look cool in a demo, but actually helps people work better.
 
-Currently, I’m building and refining projects around:
+---
 
-- Generative AI applications for document intelligence and automation
-- RAG-based question answering over complex documents
-- OCR and document extraction pipelines
-- Agentic AI systems for root cause analysis and decision support
-- Production-oriented AI workflows using Python, FastAPI, Docker, vector search, and cloud-ready architecture
+### 🧠 What I work on
 
-### AI, ML & GenAI
+- 🔭 Currently building **GenAI prototypes** for document intelligence, automation, and decision support
+- 🤖 Exploring **agentic AI systems** with RAG, vector search, structured reasoning, and multi-agent workflows
+- 📄 Interested in **OCR, document extraction, grounded Q&A, summarization, and AI-powered workflows**
+- 🛠️ I like turning unclear business problems into practical AI/data solutions
+- ☁️ Experienced with enterprise data platforms, cloud-based analytics, BI automation, and production-oriented pipelines
+
+---
+
+### 🧰 My AI toolbox
+
+**Languages & Core Tools**
 
 ![Python](https://img.shields.io/badge/Python-333?style=for-the-badge&logo=python)
-![PyTorch](https://img.shields.io/badge/PyTorch-333?style=for-the-badge&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-333?style=for-the-badge&logo=tensorflow)
-![Scikit--learn](https://img.shields.io/badge/scikit--learn-333?style=for-the-badge&logo=scikitlearn)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-333?style=for-the-badge&logo=huggingface)
-![OpenAI](https://img.shields.io/badge/OpenAI-333?style=for-the-badge&logo=openai)
+![SQL](https://img.shields.io/badge/SQL-333?style=for-the-badge&logo=postgresql)
+![PowerShell](https://img.shields.io/badge/PowerShell-333?style=for-the-badge&logo=powershell)
+![SAS](https://img.shields.io/badge/SAS-333?style=for-the-badge)
+![R](https://img.shields.io/badge/R-333?style=for-the-badge&logo=r)
 
-### LLM Systems & Document Intelligence
+**AI, ML & GenAI**
 
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-333?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-333?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-333?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-333?style=for-the-badge)
-![LLM Workflows](https://img.shields.io/badge/LLM%20Workflows-333?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-333?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-333?style=for-the-badge)
 ![OCR](https://img.shields.io/badge/OCR-333?style=for-the-badge)
 ![Document Intelligence](https://img.shields.io/badge/Document%20Intelligence-333?style=for-the-badge)
-![FAISS](https://img.shields.io/badge/FAISS-333?style=for-the-badge)
+
+**Frameworks & Libraries**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-333?style=for-the-badge&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-333?style=for-the-badge&logo=tensorflow)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-333?style=for-the-badge&logo=scikitlearn)
+![Pandas](https://img.shields.io/badge/Pandas-333?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-333?style=for-the-badge&logo=numpy)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-333?style=for-the-badge&logo=huggingface)
+
+**LLM Systems & Deployment**
+
 ![LangGraph](https://img.shields.io/badge/LangGraph-333?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-333?style=for-the-badge)
 ![Pinecone](https://img.shields.io/badge/Pinecone-333?style=for-the-badge)
-
-### Data, Cloud & Deployment
-
-![SQL](https://img.shields.io/badge/SQL-333?style=for-the-badge&logo=postgresql)
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-333?style=for-the-badge&logo=microsoftazure)
-![Azure Synapse](https://img.shields.io/badge/Azure%20Synapse-333?style=for-the-badge)
-![Power BI](https://img.shields.io/badge/Power%20BI-333?style=for-the-badge&logo=powerbi)
 ![FastAPI](https://img.shields.io/badge/FastAPI-333?style=for-the-badge&logo=fastapi)
 ![Docker](https://img.shields.io/badge/Docker-333?style=for-the-badge&logo=docker)
 
-## Featured Projects
+**Data, Cloud & BI**
 
-### Agentic Network Root Cause Analysis  
-Multi-agent LLM system for root cause analysis using LangGraph, FAISS vector search, RAG pipelines, and structured reasoning.  
-Focus: agentic AI, retrieval, decision support, enterprise-style automation.
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-333?style=for-the-badge&logo=microsoftazure)
+![Azure Synapse](https://img.shields.io/badge/Azure%20Synapse-333?style=for-the-badge)
+![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-333?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power%20BI-333?style=for-the-badge&logo=powerbi)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-333?style=for-the-badge)
 
-### MindMender — RAG-Based Conversational AI System  
-RAG-based conversational AI system using TensorFlow, PyTorch, NLTK, speech APIs, and Pinecone vector search for context-aware response generation.  
-Awarded Best Project in Virtual AI Assistants.
+---
 
-### Legal Document Intelligence with Sentence Embeddings  
-Document intelligence workflow for semantic search, sentence similarity, and question answering over legal text using Python, spaCy, NLTK, and embeddings.  
-Focus: document understanding, semantic retrieval, and text-based decision support.
+### 🚀 Featured projects
 
-### Personalized Emotion Recognition Using Deep-Seeded Clustering  
-Master’s research project applying deep-seeded clustering to physiological signals for personalized emotion recognition.  
-Focus: machine learning, statistical analysis, deep clustering, and applied AI research.
+#### 🕸️ Agentic Network RCA  
+A multi-agent LLM system for root cause analysis using **LangGraph, FAISS, RAG pipelines, and structured reasoning**.  
+Built around the idea of using AI agents to investigate operational issues, retrieve relevant context, and support decision-making.
 
-## Research & Publications
+#### 🧘 MindMender  
+A RAG-based conversational AI system using **TensorFlow, PyTorch, NLTK, speech APIs, and Pinecone**.  
+Designed for context-aware conversations with speech-to-text, emotion detection, intent detection, and semantic retrieval.  
+🏆 Awarded **Best Project** in Virtual AI Assistants.
 
-Co-author of an IEEE ICSTW 2024 publication on adversarial perturbation testing for object-detection models.
+#### ⚖️ Legal Document Intelligence  
+A document intelligence workflow for semantic search, sentence similarity, and Q&A over legal text using **Python, spaCy, NLTK, and embeddings**.
 
-## What I'm interested in
+#### 💓 Personalized Emotion Recognition  
+My Master’s research project on emotion recognition from physiological signals using **deep-seeded clustering** and machine learning.
 
-- Applied AI and Generative AI systems
-- Document intelligence and OCR
-- RAG and LLM-powered automation
-- AI for enterprise operations, risk, finance, and decision support
-- Scalable, production-ready ML and data workflows
+---
 
-## Connect
+### 💬 Ask me about
 
-- LinkedIn: https://www.linkedin.com/in/berilborali/
-- GitHub: https://github.com/berilborali
-<!--
-**berilborali/berilborali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Building RAG systems that actually retrieve useful context
+- Document intelligence, OCR, and grounded Q&A
+- LLM workflows and agentic AI systems
+- Data engineering for analytics and AI
+- Python, SQL, Azure, FastAPI, and Power BI
+- Turning academic AI ideas into practical projects
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently learning / exploring
+
+- More advanced agentic AI design patterns
+- Production-ready LLM evaluation
+- AI systems for enterprise automation
+- Better ways to combine retrieval, reasoning, and structured outputs
+
+---
+
+### ✨ Fun facts
+
+- I like projects that mix **technical depth + human usefulness**
+- I’ve worked across AI research, data science, data engineering, BI, and automation
+- I enjoy making complex technical ideas easier to understand
+- I’m probably either debugging something, reading something philosophical, or overthinking how to make a README more aesthetic
+
+---
+
+### 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-333?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/berilborali/)
+[![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github)](https://github.com/berilborali)
